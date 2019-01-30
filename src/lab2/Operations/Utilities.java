@@ -1,4 +1,4 @@
-package lab2;
+package lab2.Operations;
 
 public class Utilities {
     public static boolean isString(String string) {
